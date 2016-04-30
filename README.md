@@ -109,6 +109,7 @@ ACTIONS
 ## GPG
 -	[gpgdecrypt.sh](https://github.com/n-m-b/automation-scripts/blob/master/gpg/gpgdecrypt.sh) - Allows quick decrypting of messages from other users.
 -	[encryptedmes.sh](https://github.com/n-m-b/automation-scripts/blob/master/gpg/encryptedmes.sh) - Or encrypted message, allows me to use gpg quickly to send a message to someone who's key I have.
+
 ### GPG Usage
 ---
 #### Using [gpgdecrypt.sh](https://github.com/n-m-b/automation-scripts/blob/master/gpg/gpgdecrypt.sh)
