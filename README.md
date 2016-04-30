@@ -1,5 +1,6 @@
 # automation-scripts
 > Scripts I use to make my life in the CLI much easier and efficent.
+
 ## Prerequisites
 ### Installing GnuPG MacOSX
 If you don't already have it, install [Homebrew](http://brew.sh/).
