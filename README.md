@@ -69,6 +69,7 @@ curl -L https://raw.githubusercontent.com/RobBollons/passbox/master/passbox > ./
 -	To put it straight in your clipboard for pasting elsewhere (OS X only):
 
 	`wifi-password | pbcopy`
+	
 #### Using [passbox.sh](https://github.com/RobBollons/passbox)	
 ```
 usage: passbox [action]
