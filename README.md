@@ -116,6 +116,7 @@ ACTIONS
 -	`cd /directory/of/gpgdecrypt.sh && ./gpgdecrypt.sh`
 -	Drag the file into the terminal window or type in the path of the file to decrypt.
 -	Enter password when prompted.
+
 #### Using [encryptedmes.sh](https://github.com/n-m-b/automation-scripts/blob/master/gpg/encryptedmes.sh)
 -	`cd /directory/of/encryptedmes.sh && ./encryptedmes.sh`
 -	Enter the email of the recipient.
