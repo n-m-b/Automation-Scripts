@@ -22,7 +22,7 @@ brew install gnupg
 ---
 If you want the scripts.
 ```
-git clone https://github.com/n-m-b/automation-scripts.git
+git clone https://github.com/nmbarker/automation-scripts.git
 ```
 Make sure to chmod each script so that you can actually use it.
 ```
